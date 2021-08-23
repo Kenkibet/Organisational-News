@@ -1,1 +1,1 @@
-web: ./build/install/hero-squad/bin/hero-squad
+web: ./build/install/organisation-news/bin/organisation-news
