@@ -21,3 +21,6 @@ dependencies {
     compile group: 'com.h2database', name: 'h2', version: '1.4.191'
     compile 'com.google.code.gson:gson:2.5'
 }
+
+defaultTasks=['clea']
+task stage(dependsOn:['clean', 'installDist'])
