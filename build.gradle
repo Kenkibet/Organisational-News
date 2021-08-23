@@ -7,7 +7,7 @@ group 'com.ken.organisationalnews'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
-applicationName = "organisational-news
+applicationName = "organisational-news"
 mainClassName = 'App'
 
 repositories {
